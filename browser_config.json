@@ -1,3 +1,4 @@
 {
-  "availableDomains" : ["yt", "youtube", "youtu.be", "pornhub","twitter","facebook","vk","ok","pin","tiktok"]
+  "availableDomains" : ["yt", "youtube", "youtu.be", "pornhub","twitter","facebook","vk","ok","pin","tiktok"],
+  "limitFreeDownloads" : 10
 }
