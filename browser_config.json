@@ -1,5 +1,6 @@
 {
   "availableDomains" : ["yt", "youtube", "youtu.be", "pornhub","twitter","facebook","vk","ok","pin","tiktok"],
   "limitFreeDownloads" : 10,
-  "countShowPaywallAtStart" : 5
+  "countShowPaywallAtStart" : 5,
+  "lockShareFileForNotPurchasedUser" : true
 }
